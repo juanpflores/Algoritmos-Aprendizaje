@@ -1,0 +1,15 @@
+,Precion arterial,Azucar en la Sangre,Colesterol,Alergia Antibiotico,Otras Alergias,Administrar Farmaco
+1,Alta,Alto,Alto,No,No,Si
+2,Alta,Alto,Alto,Si,No,Si
+3,Baja,Alto,Bajo,No,No,Si
+4,Media,Alto,Alto,No,Si,No
+5,Media,Bajo,Alto,Si,Si,No
+6,Baja,Bajo,Alto,Si,Si,Si
+7,Alta,Bajo,Alto,Si,No,Si
+8,Alta,Bajo,Bajo,No,Si,Si
+9,Alta,Alto,Bajo,Si,Si,No
+10,Baja,Bajo,Alto,Si,Si,Si
+11,Media,Bajo,Bajo,Si,Si,Si
+12,Alta,Bajo,Alto,Si,Si,No
+13,Baja,Alto,Alto,Si,Si,Si
+14,Baja,Alto,Bajo,No,No,Si

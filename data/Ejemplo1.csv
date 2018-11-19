@@ -1,0 +1,16 @@
+﻿,Número de Ejemplares,Nivel de Ventas,Precio,Descuento
+1,<=4,Buenas,<=150,Si
+2,>4,Buenas,>150,Si
+3,>4,Buenas,<=150,Si
+4,<=4,Buenas,>150,Si
+5,>4,Buenas,>150,Si
+6,>4,Bajas,>150,Si
+7,<=4 ,Bajas,>150,No
+8,<=4 ,Bajas,>150,Si
+9,>4,Bajas,<=150,Si
+10,<=4,Bajas,>150,No
+11,<=4,Promedio,<=150,No
+12,>4,Promedio,<=150,No
+13,<=4,Promedio,>150,Si
+14,>4,Promedio,>150,Si
+15,>4,Promedio,<=150,No
